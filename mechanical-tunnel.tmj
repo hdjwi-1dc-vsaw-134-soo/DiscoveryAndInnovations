@@ -379,7 +379,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"tunnel.png"
+         "value":"mechanical-tunnel.png"
         }, 
         {
          "name":"mapName",
