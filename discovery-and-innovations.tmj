@@ -3553,7 +3553,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"nature-scape.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/discovery-and-innovations\/discovery-and-innovations---nature-scape"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3570,7 +3570,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"project-foundry.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/discovery-and-innovations\/discovery-and-innovations---project-foundry"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3587,7 +3587,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"mechanical-tunnel.tmj#entry-from-discovery-left"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/discovery-and-innovations\/discovery-and-innovations---mechanical-tunnel#entry-from-discovery-left"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3604,7 +3604,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"makers-space.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/discovery-and-innovations\/discovery-and-innovations---makers-space"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3621,7 +3621,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"sewing-machine-1.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/discovery-and-innovations\/discovery-and-innovations---sewing-machine-first-floor"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3638,7 +3638,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tea-room.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/discovery-and-innovations\/discovery-and-innovations---tea-room"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3655,7 +3655,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ideas-cafe.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/discovery-and-innovations\/discovery-and-innovations---ideas-cafe"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3672,7 +3672,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"greenhouse.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/discovery-and-innovations\/discovery-and-innovations---green-house"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3689,7 +3689,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"designlab.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/discovery-and-innovations\/discovery-and-innovations---design-lab"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3978,7 +3978,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"mechanical-tunnel.tmj#entry-from-discovery-right"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/discovery-and-innovations\/discovery-and-innovations---mechanical-tunnel#entry-from-discovery-right"
                         }],
                  "rotation":0,
                  "type":"area",

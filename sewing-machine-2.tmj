@@ -1267,7 +1267,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"sewing-machine-1.tmj#entry-from-second-floor-stairs"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/discovery-and-innovations\/discovery-and-innovations---sewing-machine-first-floor#entry-from-second-floor-stairs"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1284,7 +1284,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"sewing-machine-1.tmj#entry-from-second-floor-lift"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/discovery-and-innovations\/discovery-and-innovations---sewing-machine-first-floor#entry-from-second-floor-lift"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1301,7 +1301,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storage-room.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/discovery-and-innovations\/discovery-and-innovations---storage-room"
                         }],
                  "rotation":0,
                  "type":"area",

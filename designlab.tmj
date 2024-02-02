@@ -330,7 +330,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"discovery-and-innovations.tmj#entry-from-designlab"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/discovery-and-innovations\/discovery-and-innovations#entry-from-designlab"
                         }],
                  "rotation":0,
                  "type":"area",
