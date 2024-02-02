@@ -14877,7 +14877,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "discovery-and-innovations.tmj#entry-from-designlab"
+              "value": "https://play.workadventu.re/@/workspacesky/discovery-and-innovations/discovery-and-innovations#entry-from-designlab"
             }
           ],
           "rotation": 0,
@@ -18592,7 +18592,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "designlab-chunk-1-29403000.png",
+      "image": "designlab-chunk-1-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18828,7 +18828,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "designlab-chunk-2-29403000.png",
+      "image": "designlab-chunk-2-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18843,7 +18843,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "designlab-chunk-3-29403000.png",
+      "image": "designlab-chunk-3-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18858,7 +18858,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "designlab-chunk-4-29403000.png",
+      "image": "designlab-chunk-4-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18873,7 +18873,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "designlab-chunk-5-29403000.png",
+      "image": "designlab-chunk-5-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18888,7 +18888,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "designlab-chunk-6-29403000.png",
+      "image": "designlab-chunk-6-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18903,7 +18903,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "designlab-chunk-7-29403000.png",
+      "image": "designlab-chunk-7-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18918,7 +18918,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "designlab-chunk-8-29403000.png",
+      "image": "designlab-chunk-8-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18933,7 +18933,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "designlab-chunk-9-29403000.png",
+      "image": "designlab-chunk-9-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18948,7 +18948,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "designlab-chunk-10-29403000.png",
+      "image": "designlab-chunk-10-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18963,7 +18963,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "designlab-chunk-11-29403000.png",
+      "image": "designlab-chunk-11-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18978,7 +18978,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "designlab-chunk-12-29403000.png",
+      "image": "designlab-chunk-12-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18993,7 +18993,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "designlab-chunk-13-29403000.png",
+      "image": "designlab-chunk-13-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19008,7 +19008,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "designlab-chunk-14-29403000.png",
+      "image": "designlab-chunk-14-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19023,7 +19023,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "designlab-chunk-15-29403000.png",
+      "image": "designlab-chunk-15-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19038,7 +19038,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "designlab-chunk-16-29403000.png",
+      "image": "designlab-chunk-16-d5479d9b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19053,7 +19053,7 @@
     {
       "columns": 14,
       "firstgid": 4097,
-      "image": "designlab-chunk-17-29403000.png",
+      "image": "designlab-chunk-17-d5479d9b.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,

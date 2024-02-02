@@ -2081,7 +2081,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "discovery-and-innovations.tmj#entry-from-green-house"
+              "value": "https://play.workadventu.re/@/workspacesky/discovery-and-innovations/discovery-and-innovations#entry-from-green-house"
             }
           ],
           "rotation": 0,
@@ -2099,7 +2099,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "discovery-and-innovations.tmj#entry-from-green-house"
+              "value": "https://play.workadventu.re/@/workspacesky/discovery-and-innovations/discovery-and-innovations#entry-from-green-house"
             }
           ],
           "rotation": 0,
@@ -2117,7 +2117,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "discovery-and-innovations.tmj#entry-from-green-house"
+              "value": "https://play.workadventu.re/@/workspacesky/discovery-and-innovations/discovery-and-innovations#entry-from-green-house"
             }
           ],
           "rotation": 0,
@@ -2818,7 +2818,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "greenhouse-chunk-1-0cc69d35.png",
+      "image": "greenhouse-chunk-1-76241265.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2934,7 +2934,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "greenhouse-chunk-2-0cc69d35.png",
+      "image": "greenhouse-chunk-2-76241265.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2949,7 +2949,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "greenhouse-chunk-3-0cc69d35.png",
+      "image": "greenhouse-chunk-3-76241265.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2964,7 +2964,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "greenhouse-chunk-4-0cc69d35.png",
+      "image": "greenhouse-chunk-4-76241265.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2979,7 +2979,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "greenhouse-chunk-5-0cc69d35.png",
+      "image": "greenhouse-chunk-5-76241265.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2994,7 +2994,7 @@
     {
       "columns": 8,
       "firstgid": 1281,
-      "image": "greenhouse-chunk-6-0cc69d35.png",
+      "image": "greenhouse-chunk-6-76241265.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,

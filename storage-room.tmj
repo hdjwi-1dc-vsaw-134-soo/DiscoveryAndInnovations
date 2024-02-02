@@ -6264,7 +6264,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "sewing-machine-2.tmj#entry-from-storage-room"
+              "value": "https://play.workadventu.re/@/workspacesky/discovery-and-innovations/discovery-and-innovations---sewing-machine-first-floor#entry-from-storage-room"
             }
           ],
           "rotation": 0,
@@ -6286,7 +6286,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "storage-room-chunk-1-d90c4bd6.png",
+      "image": "storage-room-chunk-1-b859c784.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6322,7 +6322,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "storage-room-chunk-2-d90c4bd6.png",
+      "image": "storage-room-chunk-2-b859c784.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6337,7 +6337,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "storage-room-chunk-3-d90c4bd6.png",
+      "image": "storage-room-chunk-3-b859c784.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6352,7 +6352,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "storage-room-chunk-4-d90c4bd6.png",
+      "image": "storage-room-chunk-4-b859c784.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6367,7 +6367,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "storage-room-chunk-5-d90c4bd6.png",
+      "image": "storage-room-chunk-5-b859c784.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6382,7 +6382,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "storage-room-chunk-6-d90c4bd6.png",
+      "image": "storage-room-chunk-6-b859c784.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6397,7 +6397,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "storage-room-chunk-7-d90c4bd6.png",
+      "image": "storage-room-chunk-7-b859c784.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
