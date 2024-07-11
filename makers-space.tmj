@@ -13058,7 +13058,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "makers-space-chunk-1-a69536ae.png",
+      "image": "makers-space-chunk-1-5443311f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13294,7 +13294,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "makers-space-chunk-2-a69536ae.png",
+      "image": "makers-space-chunk-2-5443311f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13309,7 +13309,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "makers-space-chunk-3-a69536ae.png",
+      "image": "makers-space-chunk-3-5443311f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13324,7 +13324,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "makers-space-chunk-4-a69536ae.png",
+      "image": "makers-space-chunk-4-5443311f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13339,7 +13339,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "makers-space-chunk-5-a69536ae.png",
+      "image": "makers-space-chunk-5-5443311f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13354,7 +13354,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "makers-space-chunk-6-a69536ae.png",
+      "image": "makers-space-chunk-6-5443311f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13369,7 +13369,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "makers-space-chunk-7-a69536ae.png",
+      "image": "makers-space-chunk-7-5443311f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13384,7 +13384,7 @@
     {
       "columns": 12,
       "firstgid": 1793,
-      "image": "makers-space-chunk-8-a69536ae.png",
+      "image": "makers-space-chunk-8-5443311f.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -13409,6 +13409,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Discovery and Innovations is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Discovery Innovation maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",

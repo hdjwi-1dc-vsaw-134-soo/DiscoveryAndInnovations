@@ -18592,7 +18592,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "designlab-chunk-1-cb1cea41.png",
+      "image": "designlab-chunk-1-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18828,7 +18828,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "designlab-chunk-2-cb1cea41.png",
+      "image": "designlab-chunk-2-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18843,7 +18843,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "designlab-chunk-3-cb1cea41.png",
+      "image": "designlab-chunk-3-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18858,7 +18858,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "designlab-chunk-4-cb1cea41.png",
+      "image": "designlab-chunk-4-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18873,7 +18873,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "designlab-chunk-5-cb1cea41.png",
+      "image": "designlab-chunk-5-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18888,7 +18888,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "designlab-chunk-6-cb1cea41.png",
+      "image": "designlab-chunk-6-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18903,7 +18903,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "designlab-chunk-7-cb1cea41.png",
+      "image": "designlab-chunk-7-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18918,7 +18918,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "designlab-chunk-8-cb1cea41.png",
+      "image": "designlab-chunk-8-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18933,7 +18933,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "designlab-chunk-9-cb1cea41.png",
+      "image": "designlab-chunk-9-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18948,7 +18948,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "designlab-chunk-10-cb1cea41.png",
+      "image": "designlab-chunk-10-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18963,7 +18963,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "designlab-chunk-11-cb1cea41.png",
+      "image": "designlab-chunk-11-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18978,7 +18978,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "designlab-chunk-12-cb1cea41.png",
+      "image": "designlab-chunk-12-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18993,7 +18993,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "designlab-chunk-13-cb1cea41.png",
+      "image": "designlab-chunk-13-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19008,7 +19008,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "designlab-chunk-14-cb1cea41.png",
+      "image": "designlab-chunk-14-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19023,7 +19023,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "designlab-chunk-15-cb1cea41.png",
+      "image": "designlab-chunk-15-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19038,7 +19038,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "designlab-chunk-16-cb1cea41.png",
+      "image": "designlab-chunk-16-a816e7f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19053,7 +19053,7 @@
     {
       "columns": 14,
       "firstgid": 4097,
-      "image": "designlab-chunk-17-cb1cea41.png",
+      "image": "designlab-chunk-17-a816e7f0.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
@@ -19078,6 +19078,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Discovery and Innovations is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Discovery Innovation maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",

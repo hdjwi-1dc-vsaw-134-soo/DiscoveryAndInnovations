@@ -8074,7 +8074,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "ideas-cafe-chunk-1-b3d0025d.png",
+      "image": "ideas-cafe-chunk-1-71379bdf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8470,7 +8470,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "ideas-cafe-chunk-2-b3d0025d.png",
+      "image": "ideas-cafe-chunk-2-71379bdf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8485,7 +8485,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "ideas-cafe-chunk-3-b3d0025d.png",
+      "image": "ideas-cafe-chunk-3-71379bdf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8500,7 +8500,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "ideas-cafe-chunk-4-b3d0025d.png",
+      "image": "ideas-cafe-chunk-4-71379bdf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8515,7 +8515,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "ideas-cafe-chunk-5-b3d0025d.png",
+      "image": "ideas-cafe-chunk-5-71379bdf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8530,7 +8530,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "ideas-cafe-chunk-6-b3d0025d.png",
+      "image": "ideas-cafe-chunk-6-71379bdf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8545,7 +8545,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "ideas-cafe-chunk-7-b3d0025d.png",
+      "image": "ideas-cafe-chunk-7-71379bdf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8560,7 +8560,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "ideas-cafe-chunk-8-b3d0025d.png",
+      "image": "ideas-cafe-chunk-8-71379bdf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8575,7 +8575,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "ideas-cafe-chunk-9-b3d0025d.png",
+      "image": "ideas-cafe-chunk-9-71379bdf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8590,7 +8590,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "ideas-cafe-chunk-10-b3d0025d.png",
+      "image": "ideas-cafe-chunk-10-71379bdf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8605,7 +8605,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "ideas-cafe-chunk-11-b3d0025d.png",
+      "image": "ideas-cafe-chunk-11-71379bdf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8620,7 +8620,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "ideas-cafe-chunk-12-b3d0025d.png",
+      "image": "ideas-cafe-chunk-12-71379bdf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8635,7 +8635,7 @@
     {
       "columns": 6,
       "firstgid": 3073,
-      "image": "ideas-cafe-chunk-13-b3d0025d.png",
+      "image": "ideas-cafe-chunk-13-71379bdf.png",
       "imageheight": 192,
       "imagewidth": 192,
       "margin": 0,
@@ -8660,6 +8660,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Discovery and Innovations is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Discovery Innovation maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",
